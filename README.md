@@ -16,6 +16,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Final-Year+AI+Undergraduate+%40+AOU+Bahrain;First+of+the+First+AI+Cohort+in+Bahrain;Building+RAG+Pipelines+%26+LLM+Systems;2x+IEEE+Published+Author;Turning+Research+into+Real-World+Impact" alt="Typing SVG" />
 
+<br/>
+
+<img src="assets/robot-wave.svg" width="170" alt="An animated AI robot waving hello" />
+
 </div>
 
 <br/>
