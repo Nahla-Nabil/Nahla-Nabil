@@ -33,15 +33,11 @@
 
 <br/>
 
-🛠️ **Currently working on:** Research on conformal prediction under domain shift and LLM quantization scaling — plus exploring how to make AI systems more interpretable and reliable.
+<div align="center">
 
-🤝 **Looking to collaborate on:** AI safety research, LLM systems & RAG pipelines, hackathons, and any project that mixes technology with real-world impact.
+<img src="assets/about-cards.svg" width="100%"/>
 
-🌱 **Currently learning / exploring:** Explainable AI (XAI), AI alignment & safety research, and how to deploy LLM systems reliably at scale.
-
-💬 **Ask me about:** RAG pipelines, LLM systems, ML interpretability, or how to get started in AI research.
-
-⚡ **Fun fact:** I can spend hours debugging a model… and somehow still enjoy it. AI feels like my favorite puzzle 🧩
+</div>
 
 <br/>
 
@@ -75,16 +71,11 @@ A snake that lives on my contribution graph and eats through it every day 🐍
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nahla-Nabil&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=7DD3FC&text_color=E0F2FE&ring_color=0EA5E9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahla-Nabil&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E0F2FE&langs_count=8" width="48%"/>
+<img src="https://img.shields.io/github/followers/Nahla-Nabil?style=for-the-badge&logo=github&label=FOLLOWERS&color=38BDF8&labelColor=0B1120" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Nahla-Nabil&hide_border=true&background=0B1120&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=7DD3FC" width="68%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahla-Nabil&custom_title=Recent%20Activity&hide_border=true&bg_color=0B1120&color=38BDF8&line=0EA5E9&point=E0F2FE&area=true&area_color=38BDF8" width="100%"/>
 
 </div>
 
