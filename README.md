@@ -55,6 +55,41 @@
 
 <br/>
 
+## ⟡ Contribution Snake
+
+<div align="center">
+
+A snake that lives on my contribution graph and eats through it every day 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nahla-Nabil/Nahla-Nabil/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nahla-Nabil/Nahla-Nabil/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/Nahla-Nabil/Nahla-Nabil/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+## ⟡ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nahla-Nabil&show_icons=true&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=7DD3FC&text_color=E0F2FE&ring_color=0EA5E9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahla-Nabil&layout=compact&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=E0F2FE&langs_count=8" width="48%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Nahla-Nabil&hide_border=true&background=0B1120&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=7DD3FC" width="68%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahla-Nabil&custom_title=Recent%20Activity&hide_border=true&bg_color=0B1120&color=38BDF8&line=0EA5E9&point=E0F2FE&area=true&area_color=38BDF8" width="100%"/>
+
+</div>
+
+<br/>
+
 ## ⟡ Let's Connect
 
 <div align="center">
