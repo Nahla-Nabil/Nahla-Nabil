@@ -26,14 +26,22 @@
 
 ### Nahla Nabil — AI Engineer & Machine Learning Researcher
 📍 Muharraq, Kingdom of Bahrain
-
-🎓 **B.Sc. Artificial Intelligence** — Arab Open University Bahrain *(dual-awarded with The Open University, UK)*
-🏅 First Class Honors · Bahrain's first-ever undergraduate AI cohort
-📝 **2 × IEEE publications** — ML auditing & interpretability
-
-⚡ LLM systems & RAG &nbsp;·&nbsp; AI safety & interpretability &nbsp;·&nbsp; Applied ML for real-world impact
+🎓 B.Sc. Artificial Intelligence — Arab Open University Bahrain *(dual-awarded with The Open University, UK)* · First Class Honors · Bahrain's first-ever undergraduate AI cohort
+📝 2 × IEEE publications — ML auditing & interpretability
 
 </div>
+
+<br/>
+
+🛠️ **Currently working on:** Research on conformal prediction under domain shift and LLM quantization scaling — plus exploring how to make AI systems more interpretable and reliable.
+
+🤝 **Looking to collaborate on:** AI safety research, LLM systems & RAG pipelines, hackathons, and any project that mixes technology with real-world impact.
+
+🌱 **Currently learning / exploring:** Explainable AI (XAI), AI alignment & safety research, and how to deploy LLM systems reliably at scale.
+
+💬 **Ask me about:** RAG pipelines, LLM systems, ML interpretability, or how to get started in AI research.
+
+⚡ **Fun fact:** I can spend hours debugging a model… and somehow still enjoy it. AI feels like my favorite puzzle 🧩
 
 <br/>
 
