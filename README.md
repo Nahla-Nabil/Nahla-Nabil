@@ -22,24 +22,20 @@
 
 ## ⟡ About Me
 
-<img align="right" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif" width="340"/>
+<div align="center">
 
-```yaml
-name:        Nahla Nabil
-role:        AI Engineer & Machine Learning Researcher
-location:    Muharraq, Kingdom of Bahrain
-education:   B.Sc. Artificial Intelligence — Arab Open University Bahrain
-             (dual-awarded with The Open University, UK)
-honors:      First Class Honors · GPA 3.94/4.00
-cohort:      Bahrain's first-ever undergraduate AI cohort
-publications: 2 × IEEE — ML auditing & interpretability
-focus:       ⚡ LLM systems & RAG   ⚡ AI safety & interpretability
-             ⚡ Applied ML for real-world impact
-currently:   Researching conformal prediction under domain shift,
-             quantization scaling laws, and safe LLM deployment
-```
+### Nahla Nabil — AI Engineer & Machine Learning Researcher
+📍 Muharraq, Kingdom of Bahrain
 
-<br clear="right"/>
+🎓 **B.Sc. Artificial Intelligence** — Arab Open University Bahrain *(dual-awarded with The Open University, UK)*
+🏅 First Class Honors · **GPA 3.94/4.00** · Bahrain's first-ever undergraduate AI cohort
+📝 **2 × IEEE publications** — ML auditing & interpretability
+
+⚡ LLM systems & RAG &nbsp;·&nbsp; AI safety & interpretability &nbsp;·&nbsp; Applied ML for real-world impact
+
+🔬 Currently researching **conformal prediction under domain shift**, **quantization scaling laws**, and **safe LLM deployment**
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=3" width="100%"/>
@@ -113,6 +109,13 @@ IEEE paper on auditing Random Forest models for Gulf sustainability indices — 
 <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 <br/>
 <sub>Java & C++ used during internship engineering tasks · LaTeX for academic papers</sub>
+
+<br/><br/>
+
+**Web**
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 <br/><br/>
 
