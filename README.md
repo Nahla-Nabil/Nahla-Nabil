@@ -24,17 +24,6 @@
 
 <div align="center">
 
-### Nahla Nabil — AI Engineer & Machine Learning Researcher
-📍 Muharraq, Kingdom of Bahrain
-🎓 B.Sc. Artificial Intelligence — Arab Open University Bahrain *(dual-awarded with The Open University, UK)* · First Class Honors · Bahrain's first-ever undergraduate AI cohort
-📝 2 × IEEE publications — ML auditing & interpretability
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="assets/about-cards.svg" width="100%"/>
 
 </div>
